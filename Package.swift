@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "QueuesFluentDriver",
+    name: "vapor-queues-fluent-driver",
     platforms: [
         .macOS(.v10_15)
     ],
